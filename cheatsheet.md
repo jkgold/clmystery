@@ -68,7 +68,7 @@ Remember:
 **Starting a path with a slash** means you want to give the entire path and ignore what directory you're currently in.
 **Not starting a path with a slash** means you want to give the path starting from the directory you're in.
 
-If you're ever unsure of what directory you're in, you can use the `pwd` (Print Working Directory) command to get the absolute path of the current directory.
+If you're ever unsure of what directory you're in, you can use    `pwd` (Print Working Directory) command to get the absolute path of the current directory.
 
 	~$ pwd
 	/Users/Noah
